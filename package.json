@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrazilBatres/Cypress.git"
+  },
+  "author": "Brazil",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BrazilBatres/Cypress/issues"
+  },
+  "homepage": "https://github.com/BrazilBatres/Cypress#readme",
+  "devDependencies": {
+    "cypress": "^11.0.0"
+  }
+}
